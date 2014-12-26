@@ -6,7 +6,7 @@ hi35xx
 ### Hardware
 * Serial: 115200, Data bits: 8, Parity: None, Stop bits: 1
 * DRAM: 256MiB
-* Flash: 12MiB (Can extend to 16MiB)
+* Flash: 12MiB
 
 ### SDK VMware
 * ubuntu 10.04 32 bit
